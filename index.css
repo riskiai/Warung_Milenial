@@ -1,0 +1,106 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+/*Jumbotron*/
+.jumbotron {
+	background-image: url(images/1.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	height: 400px;
+	width: 100%;
+	color: white;
+	box-shadow: 0 0 2px 1px rgba(0, 0, 0, 4);
+}
+
+.jumbotron .display-4 {
+	margin-top: 30px;
+}
+
+.jumbotron p {
+	font-size: 23px;
+}
+
+.jumbotron hr {
+	border-color: white;
+	width: 400px;
+	border-width: 3px;
+}
+/*Akhir Jumbotron*/
+
+/*Navbar*/
+.navbar {
+	margin-top: -32px;
+}
+
+.warna2 {
+  background-color: #61481C;
+}
+
+.warna3 {
+  background-color: #BF9742;
+}
+
+.navbar .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+	color: #BF9742;
+}
+
+.navbar .navbar-brand  {
+	font-size: 30px;
+}
+/*Akhir Navbar*/
+
+/*Footer*/
+.footer {
+	margin-top: 150px;
+	border-width: 3px;
+}
+
+.footer-body {
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+/*Akhir Footer*/
+
+/*Home*/
+.judul {
+	margin-bottom: 120px;
+}
+
+.card-img:hover {
+	box-shadow: 3px 2px 10px rgba(0,0,0,0.4);	
+}
+.gambar img {
+	height: 200px;
+  width:400px;
+  object-fit: cover;
+  object-position: center;
+	
+}
+
+/*Akhir Home*/
+
+/* footer */
+.icon-contact a img:hover {
+	width: 30px;
+	height: 30px;
+}
+
+/* efek detail dan beli */
+.efek a {
+	box-shadow: 3px 2px 10px rgba(0,0,0,0.4);	
+}
+
+.efek button {
+	box-shadow: 3px 2px 10px rgba(0,0,0,0.4);	
+}
+

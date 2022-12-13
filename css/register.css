@@ -1,0 +1,24 @@
+body {
+	background-image: url(../images/Background/bg4.jpg);
+	background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.container {
+	height: 30% !important;
+	width: 50%;
+	box-shadow: 0 5px 50px rgba(0,0,0,0.6);
+	border-radius: 10px;
+	
+	z-index: 1;
+	color: white;
+	text-size-adjust: 30px;
+}
+ 
+.warna2 {
+  background-color: #61481C;
+}
+
+.warna3 {
+  background-color: #BF9742;
+}
